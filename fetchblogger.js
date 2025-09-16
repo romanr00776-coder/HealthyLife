@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs-extra');
 
-const feedUrl = 'https://wrestlinguniversestar.blogspot.com/feeds/posts/default?alt=json&max-results=10';
+const feedUrl = 'https://www.giggiplay.online/feeds/posts/default?alt=json&max-results=10';
 
 async function main() {
   try {
